@@ -1,4 +1,4 @@
-# Web Development Project 7 - _Name of App Here_
+# Web Development Project 7 - Crewmates
 
 Submitted by: **Pranava Sree Pottipati**
 
